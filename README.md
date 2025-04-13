@@ -26,13 +26,13 @@ To optimise the moderation pipeline and focus human reviewers where they are mos
 ---
 
 ### Project Objectives:
-- Use Python to explore, clean, and visualize the data.
+- Use Python to explore, clean, and visualize the data
 - Perform descriptive statistics and hypothesis testing to confirm the intuitions emerging from data exploration
-- Build a linear regression baseline model and a more powerfu.l machine learning classification model.
-- Communicate findings to technical and non-technical stakeholders.
+- Build a linear regression baseline model and a more powerfu.l machine learning classification model
+- Communicate findings to technical and non-technical stakeholders
 ---
 
-### About me:
+### About me...
 I'm a neuroscience researcher with a background in physics, my work involves machine learning and data science in a scientific setting. 
 This project is part of my effort to gain hands-on experience with achine learning and data science in an industry settings.
 
