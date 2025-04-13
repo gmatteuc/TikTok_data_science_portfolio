@@ -13,13 +13,13 @@ This project simulates a real-world workplace scenario. It includes:
 
 ---
 
-### Context
+### Project Context:
 TikTok receives a massive volume of user-generated content daily, much of which is flagged by users for potential misinformation. Reviewing this flagged content manually is time-consuming and resource-intensive.
 To optimise the moderation pipeline and focus human reviewers where they are most needed, TikTok is exploring automated classification solutions. This project simulates the early development of such a solution as part of TikTok data science team.
 
 **Goal:** Build and evaluate a predictive model that classifies videos and comments as either **claims** or **opinions**, enabling the moderation team to prioritise potentially misleading content more efficiently.
 
-### Business Relevance:
+**Business Relevance:**
 - **Reduces moderation workload** by filtering content before human review  
 - **Speeds up response times** for addressing harmful or misleading content  
 - **Supports platform integrity** and improves user trust through scalable content moderation
@@ -31,3 +31,10 @@ To optimise the moderation pipeline and focus human reviewers where they are mos
 - Build a linear regression baseline model and a more powerfu.l machine learning classification model.
 - Communicate findings to technical and non-technical stakeholders.
 ---
+
+### About me:
+I'm a neuroscience researcher with a background in physics, my work involves machine learning and data science in a scientific setting. 
+This project is part of my effort to gain hands-on experience with achine learning and data science in an industry settings.
+
+---
+> **Note**: This is a simulated workplace scenario. The team members, stakeholders, and data are fictitious and adapted for educational purposes in the context of the [**Google Advanced Data Analytics professional certificate**](https://www.coursera.org/account/accomplishments/professional-cert/KYPQQE9V1YBX).
