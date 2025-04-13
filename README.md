@@ -14,7 +14,7 @@ This project simulates a real-world workplace scenario. It includes:
 ---
 
 ### Project Context:
-TikTok receives a massive volume of user-generated content daily, much of which is flagged by users for potential misinformation. Reviewing this flagged content manually is time-consuming and resource-intensive.
+TikTok receives a massive volume of user-generated content daily, much of which is flagged by users for potential misinformation or harmful content. Reviewing this flagged content manually is time-consuming and resource-intensive.
 To optimise the moderation pipeline and focus human reviewers where they are most needed, TikTok is exploring automated classification solutions. This project simulates the early development of such a solution as part of TikTok data science team.
 
 **Goal:** Build and evaluate a predictive model that classifies videos and comments as either **claims** or **opinions**, enabling the moderation team to prioritise potentially misleading content more efficiently.
