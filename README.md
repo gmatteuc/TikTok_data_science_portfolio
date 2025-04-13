@@ -1,4 +1,4 @@
-# TikTok Claims Classification - Data Science Portfolio Project
+# TikTok Claims Classification - Data Science Portfolio
 
 This repository showcases a role-play data science project conducted as part of the **Google Advanced Data Analytics** professional certificate. In this simulated scenario I took on the role of a data scientist at TikTok, where the goal was to help the content moderation team by developing a machine learning model capable of classifying TikTok videos and comments as either **claims** or **opinions** to help moderation.
 This project simulates a real-world workplace scenario. It includes:
