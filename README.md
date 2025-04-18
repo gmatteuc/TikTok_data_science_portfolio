@@ -28,7 +28,7 @@ To optimise the moderation pipeline and focus human reviewers where they are mos
 ### Project Objectives:
 - Use Python to explore, clean, and visualize the data
 - Perform descriptive statistics and hypothesis testing to confirm the intuitions emerging from data exploration
-- Build a linear regression baseline model and a more powerfu.l machine learning classification model
+- Build a linear regression model and a more powerfull machine learning classification models (a Random Forest classifier and an  XGB classifier)
 - Communicate findings to technical and non-technical stakeholders
 ---
 
