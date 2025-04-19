@@ -34,7 +34,7 @@ To optimise the moderation pipeline and focus human reviewers where they are mos
 
 ### About me...
 I'm a neuroscience researcher with a background in physics, my work involves machine learning and data science in a scientific setting. 
-This project is part of my effort to gain hands-on experience with achine learning and data science in an industry settings.
+This project is part of my effort to gain hands-on experience with machine learning and data science in an industry setting.
 
 ---
 > **Note**: This is a simulated workplace scenario. The team members, stakeholders, and data are fictitious and adapted for educational purposes in the context of the [**Google Advanced Data Analytics professional certificate**](https://www.coursera.org/account/accomplishments/professional-cert/KYPQQE9V1YBX).
